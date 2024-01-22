@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheBowlingScoreCalculator", "TheBowlingScoreCalculator\TheBowlingScoreCalculator.csproj", "{9B16C9B2-7DA4-4783-A198-74701B3AC871}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B16C9B2-7DA4-4783-A198-74701B3AC871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B16C9B2-7DA4-4783-A198-74701B3AC871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B16C9B2-7DA4-4783-A198-74701B3AC871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B16C9B2-7DA4-4783-A198-74701B3AC871}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {112BBC01-ABC4-4AA4-8A7B-BEE8865F2D6C}
+	EndGlobalSection
+EndGlobal
